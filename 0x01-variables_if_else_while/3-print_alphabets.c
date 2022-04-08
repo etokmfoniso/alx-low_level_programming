@@ -17,7 +17,7 @@ putchar(lower_case);
 
 for (upper_case = 'A'; upper_case <= 'A'; upper_case++)
 {
-putchar(lower_case);
+putchar(upper_case);
 }
 
 putchar ('\n');
