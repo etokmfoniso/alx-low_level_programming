@@ -11,7 +11,7 @@ char lower_case;
 
 for (lower_case = 122; lower_case >= 97; lower_case--)
 {
-putchar(lowercase);
+putchar(lower_case);
 }
 
 putchar('\n');
