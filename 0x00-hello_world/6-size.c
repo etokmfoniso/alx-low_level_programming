@@ -1,11 +1,10 @@
 #include <stdio.h>
 /**
- *
  * main - entry point
- * my sizeof task
+ *
  * Return: Always 0(succeess)
  */
-int main()
+int maini(void)
 {
 printf("Size of a char: %d byte(s)\n", sizeof(char));
 printf("Size of an int: %d byte(s)\n", sizeof(int));
