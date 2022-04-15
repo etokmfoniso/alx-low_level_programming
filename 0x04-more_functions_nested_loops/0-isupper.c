@@ -1,4 +1,4 @@
-#include "main"
+#include "main.h"
 /**
  * -isupper.c - checks uppercase
  * @c: prints integer
