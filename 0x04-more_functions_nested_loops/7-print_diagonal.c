@@ -11,7 +11,7 @@ int i, j;
 
 if (n > 0)
 {
-for (i = o; 1 < n; i++)
+for (i = 0; 1 < n; i++)
 {
 for (j = 0; j < 1; j++)
 {
