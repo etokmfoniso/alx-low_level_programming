@@ -1,10 +1,12 @@
 #include "main.h"
+
 /**
  * _strlen - length of the string
  *
- * @s: given string 
- * Return: always 1
+ * @s: pointer to a string 
+ * Return: void that means answer is correct
  */
+
 int _strlen(char *s)
 {
 int u;
