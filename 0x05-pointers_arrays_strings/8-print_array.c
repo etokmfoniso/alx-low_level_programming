@@ -13,11 +13,11 @@ int i;
 i = 0;
 while (i < n)
 {
-print("%d", a[i]);
+printf("%d", a[i]);
 
 if (i < n - 1)
 {
-print (", ");
+printf(", ");
 }
 
 i++;
