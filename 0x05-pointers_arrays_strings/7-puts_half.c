@@ -1,16 +1,18 @@
 #include "main.h"
-
 /**
  * puts_half - prints every other character of a string 
  * @str: a pointer to an integer that will be changed
  *
  * Return: void which means our answer is correct
  */
+
 void puts_half(char *str)
 {
+
 int i, last;
 
 i = 0;
+
 while (str[i] != '\0')
 {
 i++;
