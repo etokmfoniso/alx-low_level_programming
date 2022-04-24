@@ -3,7 +3,7 @@
  * _strcmp - function that compares the string
  * @s1: string to be compared
  * @s2: string to be compared
- * Return: negative if s1 < s2; 0 if matching and positive int
+ * Return: negative if s1 < s2; 0 if matching and positive if s1 > s2
  */
 
 int _strcmp(char *s1, char *s2)
