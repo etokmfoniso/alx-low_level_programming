@@ -19,8 +19,9 @@ while (dest[c])
 c++;
 
 for (i = 0; i < n && src[i] != '\0'; i++)
-	dest[c + i] = src[i];
-dest[c + 1] - '\0';
+dest[c + i] = src[i];
+
+dest[c + 1] = '\0';
 
 return (dest);
 }
