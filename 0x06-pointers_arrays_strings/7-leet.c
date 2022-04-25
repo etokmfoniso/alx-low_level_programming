@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * leet - translates string to 1337
- * @s: pointer to string 
+ * @s: pointer to string
  * Return: returns translated string
  */
 
