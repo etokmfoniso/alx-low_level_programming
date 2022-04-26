@@ -1,7 +1,7 @@
 #include "main.h"
 /**
- * _strchr - loacte character in string
- * @s: source string
+ * _strchr - locate character in string
+ * @s: souce string
  * @c: character to find
  *
  * Return: the string from character found
@@ -9,7 +9,8 @@
 
 char *_strchr(char *s, char c)
 {
-int a = 0; b;
+int a = 0;
+int b;
 
 while (s[a])
 {

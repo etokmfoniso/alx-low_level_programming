@@ -3,8 +3,8 @@
  * _memset - fill a memory with a constant byte
  * @s: memory to be fill
  * @b: value to be filled
- * @n:bytes of memory to be fill
- * Return: filled memory is returned
+ * @n: bytes of memory to be fill
+ * Return: the memory area filled
  */
 
 char *_memset(char *s, char b, unsigned int n);
