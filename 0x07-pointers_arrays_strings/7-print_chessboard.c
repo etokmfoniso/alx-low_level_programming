@@ -17,7 +17,7 @@ for (c = 0; c < 8; c++)
 _putchar(a[b][c]);
 }
 
-_putchar('\0');
+_putchar('\n');
 }
 
 }
