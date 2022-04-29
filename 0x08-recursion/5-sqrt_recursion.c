@@ -4,6 +4,7 @@
  * @n: int number
  * Return: if no natural square root, return -1 else square root
  */
+int halp(int c, int i);
 
 int _sqrt_recursion(int n)
 {
