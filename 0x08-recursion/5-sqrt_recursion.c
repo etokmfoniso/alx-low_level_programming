@@ -1,7 +1,8 @@
 #include "main.h"
 /**
  * _sqrt_recursion - return the natural square root of a number
- * @n: int number
+ * @c: number to detrmine if square rrot
+ * @i: increment to compare against c
  * Return: if no natural square root, return -1 else square root
  */
 int halp(int c, int i);
